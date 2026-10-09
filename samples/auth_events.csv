@@ -1,0 +1,8 @@
+timestamp,username,source_ip,event,outcome
+2026-09-01T12:00:00Z,alice,192.0.2.10,interactive_login,failure
+2026-09-01T12:01:00Z,alice,192.0.2.10,interactive_login,failure
+2026-09-01T12:02:00Z,bob,192.0.2.10,interactive_login,failure
+2026-09-01T12:03:00Z,alice,192.0.2.10,interactive_login,failure
+2026-09-01T12:04:00Z,alice,192.0.2.10,interactive_login,failure
+2026-09-01T12:05:00Z,alice,192.0.2.10,interactive_login,success
+2026-09-01T12:06:00Z,carol,198.51.100.8,interactive_login,success
